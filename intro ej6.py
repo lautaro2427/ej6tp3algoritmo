@@ -1,4 +1,4 @@
-ckm=int(input("cantidad de km que desea recorrer"))
+ckm=float(input("cantidad de km que desea recorrer"))
 
 precio=50
 
